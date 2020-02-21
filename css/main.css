@@ -1,0 +1,18 @@
+  header {
+    overflow: hidden;
+    background-color: hsl(308, 73%, 32%);
+    padding: 20px 10px;
+  }
+  
+  /* Style the header links */
+  header a {
+    float: right;
+    color:yellowgreen;
+    text-align: center;
+    padding: 12px;
+    text-decoration:none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    line-height: 25px;
+    border-radius: 4px;
+  }
